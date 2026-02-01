@@ -1,1 +1,19 @@
-This is a responsive Coffee Website designed to showcase a coffee brand’s menu, gallery, and hero sections with a modern, user-friendly interface. It features interactive mobile navigation with open/close toggle buttons, smooth hover effects, and visually appealing sections. Users can explore menu categories like hot beverages, cold drinks, snacks, and desserts, and view a gallery of products. The site is fully responsive, adapting seamlessly to desktops, tablets, and mobile devices. Built with HTML, CSS, and JavaScript, it uses Google Fonts and Font Awesome icons for enhanced design. Features include hero section with call-to-action buttons, menu listing, gallery with zoom effect, responsive navigation, and interactive UI elements to provide an engaging browsing experience.
+Coffee Website / CodeBrew
+
+This is a responsive Coffee Website built to showcase a coffee brand’s menu, gallery, and hero sections with a modern, visually appealing, and user-friendly interface. The site features interactive mobile navigation with open/close toggle buttons, smooth hover and zoom effects, and clear call-to-action buttons. Users can explore menu categories such as hot beverages, cold drinks, snacks, desserts, and combos, and view a gallery of products and ambiance images. Built with HTML, CSS, and JavaScript, it uses Google Fonts and Font Awesome icons to enhance design and aesthetics. The website is fully responsive, providing a seamless and engaging experience across desktops, tablets, and mobile devices.
+
+Key Features:
+
+Hero section with title, subtitle, description, and call-to-action buttons
+
+Menu section showcasing categories: hot beverages, cold drinks, snacks, desserts, and combos
+
+Gallery section with images and zoom effects
+
+Interactive mobile navigation menu with open/close toggle
+
+Smooth hover and transition effects for a modern UI
+
+Fully responsive design for desktops, tablets, and mobile devices
+
+Uses Google Fonts and Font Awesome icons for enhanced visuals
