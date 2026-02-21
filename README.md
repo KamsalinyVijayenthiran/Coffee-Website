@@ -1,19 +1,30 @@
-Coffee Website / CodeBrew
+CodeBrew Coffee – Modern Café Website UI
 
-This is a responsive Coffee Website built to showcase a coffee brand’s menu, gallery, and hero sections with a modern, visually appealing, and user-friendly interface. The site features interactive mobile navigation with open/close toggle buttons, smooth hover and zoom effects, and clear call-to-action buttons. Users can explore menu categories such as hot beverages, cold drinks, snacks, desserts, and combos, and view a gallery of products and ambiance images. Built with HTML, CSS, and JavaScript, it uses Google Fonts and Font Awesome icons to enhance design and aesthetics. The website is fully responsive, providing a seamless and engaging experience across desktops, tablets, and mobile devices.
+CodeBrew Coffee is a modern, responsive café website designed with a warm “dark roast” aesthetic. The project focuses on creating a visually engaging user interface while maintaining clear navigation and readability.
 
-Key Features:
+The design uses a deep chocolate background combined with cream content sections and golden-orange accents to highlight important actions. This color balance creates a cozy coffee-shop atmosphere while keeping the layout professional and easy to explore.
 
-Hero section with title, subtitle, description, and call-to-action buttons
+The website includes several key sections such as a hero landing area with strong call-to-action buttons, an about section telling the café story, a menu showcasing drinks and food, a gallery displaying the café experience, and a contact section with a functional form and business information.
 
-Menu section showcasing categories: hot beverages, cold drinks, snacks, desserts, and combos
+The layout follows modern UI principles including responsive grids, consistent spacing, rounded components, and clear visual hierarchy. The goal of this project was to practice clean UI design and build a structured multi-section website that reflects a real café brand.
 
-Gallery section with images and zoom effects
+Key Features
 
-Interactive mobile navigation menu with open/close toggle
+Modern hero section with CTA buttons
 
-Smooth hover and transition effects for a modern UI
+About section with brand storytelling
 
-Fully responsive design for desktops, tablets, and mobile devices
+Menu grid for drinks and food
 
-Uses Google Fonts and Font Awesome icons for enhanced visuals
+Image gallery layout
+
+Contact form with business details
+
+Consistent color palette and typography
+
+Responsive and user-friendly design
+
+Technologies Used
+HTML5
+CSS3
+JavaScript
